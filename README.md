@@ -12,6 +12,7 @@ Once we have converted text to the whale language, the result is sung slowly, as
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/Whale-Talk.git
 ```
 
 ## Usage
