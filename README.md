@@ -1,5 +1,5 @@
 # Whale-Talk
-ake a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’.
+Take a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’.
 
 There are a few simple rules for translating text to whale language:
 
